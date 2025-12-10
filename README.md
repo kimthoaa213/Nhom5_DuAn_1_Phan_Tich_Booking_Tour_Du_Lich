@@ -85,8 +85,8 @@ Phân tích ảnh hưởng của tình trạng hủy tour:
  │    └── cleaned/                    
  │    
  ├── scripts/  
- │    ├── database_VN_booking_tour.sql
- │    └──  DAX.txt              
+ │    ├── database_VN_booking_tour.sql  
+ │    └──  DAX.docx              
  │   
  ├── powerbi/    
  │    └── Nhom5_DuAn1.pbix                  
